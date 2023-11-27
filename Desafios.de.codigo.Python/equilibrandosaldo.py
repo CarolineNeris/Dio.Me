@@ -12,3 +12,5 @@ saldo_atual -= valor_retirada
 //commit
 # Imprimir a saída conforme a tabela de exemplos (uma casa decimal).
 print(f"Saldo atualizado na conta: {saldo_atual:.1f}")
+
+//bora ver ein
